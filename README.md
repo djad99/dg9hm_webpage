@@ -1,4 +1,4 @@
-# Schedule Master
+# Scheduling Master
 This is a schedule Website created by David Gray and Gracie Wright for the UVA course CS 4640
  
  This website uses PHP and a XAMPP Apache server and a MySQL database. For usage, first install XAMPP, guide at provided link
