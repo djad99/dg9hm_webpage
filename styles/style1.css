@@ -1,0 +1,81 @@
+#title{ 		
+	font-size:40px;
+	text-align: center;
+  	margin-top: 10px; 
+}
+
+#body-style{
+	background-color: #aaaaaa; 
+}
+
+#calendar{
+	background-color: #ffffff; 
+	height: 95px;
+	vertical-align: top;
+	white-space: pre-wrap;
+}
+
+#userpass{			
+	text-align: center;
+	font-weight: bold;
+}
+
+#valid{				
+	color: red;
+}
+
+
+#color1{			
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#color2{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#color3{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#label1{			
+	font-size: 25px;
+}
+
+#label2{	
+	font-size: 25px;
+}
+
+#label3{	
+	font-size: 25px;
+}
+
+#Save{				
+	font-size: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#Back{
+	font-size: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#aboveCal{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+#head{
+	margin-top: 20px;
+}
+
+
