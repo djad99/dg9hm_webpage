@@ -18,7 +18,7 @@ function newAccountMail($user, $email){
   $mail->Port = 587;                        // TCP port to connect to (587 is a standard port for SMTP)
   $mail->Host = "smtp.gmail.com";           // Specify main and backup SMTP servers
   $mail->Username = "schedulemaster10@gmail.com";  // SMTP username
-  $mail->Password = "UpsornWithWebPL";         // SMTP password
+  //$mail->Password = THIS IS WHERE A PASSWORD WOULD GO;         // SMTP password
 
   $mail->setFrom('schedulemaster10@gmail.com', 'ScheduleMaster');
   $mail->addAddress($email);
